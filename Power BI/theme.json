@@ -1,0 +1,15 @@
+{
+  "name": "Aseguradora Profesional",
+  "dataColors": ["#1A2B4C", "#FF8C00", "#4A90E2", "#7F8C8D", "#2C3E50", "#E67E22"],
+  "background": "#F4F6F7",
+  "foreground": "#1A2B4C",
+  "tableAccent": "#1A2B4C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspace": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}}],
+        "border": [{"show": true, "color": {"solid": {"color": "#BDC3C7"}}, "radius": 10}]
+      }
+    }
+  }
+}
